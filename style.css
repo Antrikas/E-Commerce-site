@@ -151,3 +151,15 @@ HIGHLIGHTS
     flex-direction: column;
 }
 
+.highlight__para {
+    text-align: center;
+}
+
+.highlight__image {
+    border: 2px solid #105d60;
+    width: 100px;
+    height: 100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
