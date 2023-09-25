@@ -157,9 +157,18 @@ HIGHLIGHTS
 
 .highlight__image {
     border: 2px solid #105d60;
+    color: #105d60;
     width: 100px;
     height: 100px;
     display:flex;
     align-items: center;
     justify-content: center;
+    border-radius: 4px;
+    font-size: 32px;
+    margin-bottom: 24px;
+}
+
+.highlight__subtitle {
+    font-size: 20px;
+    margin-bottom: 16px;
 }
