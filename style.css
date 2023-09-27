@@ -239,6 +239,7 @@ FEATURES
 .books {
 display: flex;
 flex-wrap: wrap;
+
 }
 
 .book {
@@ -249,7 +250,6 @@ padding: 24px;
 
 .book__image {
     max-height: 380px;
-    max-width: 100%;
     transition: all 300ms ease;
     cursor: not-allowed;
     display: flex;
